@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="default_text">Location</string>
+    <string name="clicked_message">Button Clicked!</string>
+    <string name="last_location_unknown">Last location is unknown!</string>
+    <string name="location_request">Creating location request..</string>
+    <string name="query_location">Queryinglocation..</string>
+    <string name="unknown_last_location">No last location!</string>
+    <string name="check_perm">Checking permissions..</string>
+    <string name="check_loc">Checking if location is enabled..</string>
+    <string name="req_loc">Requesting location..</string>
+</resources>
